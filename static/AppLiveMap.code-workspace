@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "LiveMapTwitter",
+			"path": "../../LiveMapTwitter"
+		},
+		{
+			"path": "../../../../Desktop/kafkaScripts"
+		}
+	]
+}
